@@ -5,8 +5,10 @@
     <string name="large_pizza">Large Pizza</string>
     
     <string-array name="toppings">
-        <item>Pepperoni</item>
-        <item>Sausage</item>
-        <item>Pineapple</item>
+        <item>pepperoni</item>
+        <item>sausage</item>
+        <item>pineapple</item>
+        <item>green pepper</item>
+        <item>mushroom</item>
     </string-array>
 </resources>
